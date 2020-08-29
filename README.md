@@ -1,2 +1,2 @@
-# Codechef-1216A-Prefixes
+# Codeforces-1216A-Prefixes
 ![](capture.png)
